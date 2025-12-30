@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Headpal - Tu Equipo de Rendimiento",
+  "description": "Plataforma que conecta deportistas con fisioterapeutas, entrenadores, nutricionistas y psicólogos deportivos para optimizar su rendimiento y salud.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
